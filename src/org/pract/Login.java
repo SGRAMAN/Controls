@@ -12,5 +12,6 @@ public static void main(String[] args) {
 	 else if(oddnumber==6) {
 		 System.out.println("7 is a numbers");
 	 }
+	System.out.println("Dev to master");
 }
 }
